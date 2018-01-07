@@ -25,16 +25,18 @@ Minimum Funding Goal|None
 
 
 <br />
-#### **Purchase your KWHToken (Currently in Pre-ICO A Phase)**
+
+**Purchase your KWHToken (Currently in Pre-ICO A Phase)**
 
 The maximum token amount is limited to 900k KWHTs.
 
 1. Send ETH to the ICO-Address:
-#### **0x0e0192db4dcC2A7E34FFa19EDdaf479f9B9b28C7**
+**0x0e0192db4dcC2A7E34FFa19EDdaf479f9B9b28C7**
 2. Once your ETH is received and verified, Token distribution will be within 24 hours after purchase to your sending address.
 3. Accepted currency is only ETH (Ethereum).
 
 <br />
+
 **ICO Phases**
 
 The token sale goes through the following phases:
