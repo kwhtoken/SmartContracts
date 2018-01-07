@@ -30,8 +30,8 @@ Minimum Funding Goal|None
 
 The maximum token amount is limited to 900k KWHTs.
 
-1. Send ETH to the ICO-Address:
-**0x0e0192db4dcC2A7E34FFa19EDdaf479f9B9b28C7**
+1. Send ETH to the ICO-Address: <br /> <br /> 
+**0x0e0192db4dcC2A7E34FFa19EDdaf479f9B9b28C7**  <br /> <br /> 
 2. Once your ETH is received and verified, Token distribution will be within 24 hours after purchase to your sending address.
 3. Accepted currency is only ETH (Ethereum).
 
